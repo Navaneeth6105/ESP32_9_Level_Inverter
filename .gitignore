@@ -1,0 +1,6 @@
+# PlatformIO / Build outputs
+.pio/
+build/
+/.vscode/
+sdkconfig.old
+managed_components/
